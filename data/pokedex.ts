@@ -19806,4 +19806,17 @@ export const Pokedex: import('../sim/dex-species').SpeciesDataTable = {
 		eggGroups: ["Undiscovered"],
 		gen: 5,
 	},
+		shyleon: {
+		num: -1021,
+		name: "Shyleon",
+		types: ["Grass", "Fairy"],
+		gender: "N",
+		baseStats: { hp: 58, atk: 44, def: 53, spa: 68, spd: 53, spe: 74 },
+		abilities: { 0: "Rattled", H: "Jungle Spirit" },
+		heightm: 0.6,
+		weightkg: 5,
+		color: "Green",
+		eggGroups: ["Undiscovered"],
+		otherFormes: ["Shyleon Terrestrial Form", "Shyleon Xenoversal Form", "Shyleon Astral Form"],
+	},
 };
